@@ -16,6 +16,7 @@ export default function Home (){
         //setTotal(resultado);
 
         alert("O Resultado total: " + resultado);
+        alert("PALMEIRAAAAS")
     }
 
 
